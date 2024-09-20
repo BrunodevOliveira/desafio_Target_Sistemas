@@ -196,7 +196,7 @@ a) Considerar a distância de 125km entre a cidade de Ribeirão Preto <-> Barret
 b) Considerar 3 pedágios como obstáculo e que o carro leva 5 minutos a mais para passar em cada um deles, pois ele não possui dispositivo de cobrança de pedágio.<br/><br/>
 c) Explique como chegou no resultado.
 
-<h3>Resposta: </h3>
+<h3>Resposta: <strong>ambos estarão a mesma distância de Ribeirão Preto</strong></h3>
 
 [Link para arquivo](./src/questoes/questao5.Veiculos.md)
 
